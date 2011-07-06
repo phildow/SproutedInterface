@@ -1,0 +1,27 @@
+
+"add item title" = "Eigenes Objekt hinzufügen…";
+"edit item title" = "Eigenes Objekt bearbeiten…";
+"remove item title" = "Eigenes Objekt löschen";
+
+"get info title" = "Informationen";
+"get info tip" = "Nützliche Informationen über den ausgewählten Anhang";
+
+"reveal in finder title" = "Zeigen";
+"reveal in finder tip" = "Den ausgewählten Anhang im Finder zeigen";
+
+"open in finder title" = "Öffnen";
+"open in finder tip" = "Den ausgewählten Anhang mit dem Standardprogramm öffnen";
+"open with tip" = "Die Auswahl öffnen mit %@";
+
+"address record show title" = "Zeigen";
+"address record show tip" = "Im Adressbuch öffnen";
+
+"address record email title" = "E-Mail";
+"address record email tip" = "Dem Absender eine E-Mail schicken";
+
+"address record browse title" = "Durchsuchen";
+"address record browse tip" = "Gehe zur Webseite, die mit dem Eintrag verbunden ist";
+
+
+"mail message compose title" = "Verfassen";
+"mail message compose tip" = "Dem Absender eine E-Mail schicken";

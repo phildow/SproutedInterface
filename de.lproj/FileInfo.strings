@@ -1,0 +1,10 @@
+
+"mditem title name" = "Title";
+"mditem kind name" = "Art";
+"mditem size name" = "Größe";
+"mditem size kb" = " KB Festplattenplatz";
+"mditem size mb" = " MB Festplattenplatz";
+"mditem size gb" = " GB Festplattenplatz";
+"mditem created name" = "Erstellt";
+"mditem modified name" = "Geändert";
+"mditem lastopened name" = "Zul. geöffnet";

@@ -1,0 +1,10 @@
+
+"mditem title name" = "Title";
+"mditem kind name" = "Art";
+"mditem size name" = "Størrelse";
+"mditem size kb" = "KB på disk";
+"mditem size mb" = "MB på disk";
+"mditem size gb" = "GB på disk";
+"mditem created name" = "Oprettet";
+"mditem modified name" = "Ændret";
+"mditem lastopened name" = "Sidst åbnet";

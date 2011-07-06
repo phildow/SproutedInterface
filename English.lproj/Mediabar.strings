@@ -1,0 +1,27 @@
+
+"add item title" = "Add Custom Item…";
+"edit item title" = "Edit Custom Item…";
+"remove item title" = "Remove Custom Item…";
+
+"get info title" = "Get Info";
+"get info tip" = "Useful information about the selected resource";
+
+"reveal in finder title" = "Reveal";
+"reveal in finder tip" = "Show the selected resource in the Finder";
+
+"open in finder title" = "Open";
+"open in finder tip" = "Open the selected resource with the default application";
+"open with tip" = "Open the selection with %@";
+
+"address record show title" = "Show";
+"address record show tip" = "Open in Address Book";
+
+"address record email title" = "Email";
+"address record email tip" = "Begin a new email to the sender";
+		
+"address record browse title" = "Browse";
+"address record browse tip" = "Browse the entry's associated web site";
+
+
+"mail message compose title" = "Compose";
+"mail message compose tip" = "Begin a new email to the sender";

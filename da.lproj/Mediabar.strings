@@ -1,0 +1,27 @@
+
+"add item title" = "Tilføj almindelig tekst…";
+"edit item title" = "Rediger almindelig tekst…";
+"remove item title" = "Fjern almindelig tekst";
+
+"get info title" = "Vis info";
+"get info tip" = "Nyttige oplysninger om valgte kilde";
+
+"reveal in finder title" = "Vis";
+"reveal in finder tip" = "Vis valgte kilde i Finder";
+
+"open in finder title" = "Åben";
+"open in finder tip" = "Åben valgte kilde i dets standard program";
+"open with tip" = "Åben valgte med %@";
+
+"address record show title" = "Vis";
+"address record show tip" = "Åben i adressebogen";
+
+"address record email title" = "E-mail";
+"address record email tip" = "Start en ny e-mail til afsenderen";
+		
+"address record browse title" = "Browse";
+"address record browse tip" = "Browse tekstens tilknyttede web site";
+
+
+"mail message compose title" = "Opret";
+"mail message compose tip" = "Start en ny e-mail til afsenderen";

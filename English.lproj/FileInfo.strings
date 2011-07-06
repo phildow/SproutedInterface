@@ -1,0 +1,10 @@
+
+"mditem title name" = "Title";
+"mditem kind name" = "Kind";
+"mditem size name" = "Size";
+"mditem size kb" = "KB on disk";
+"mditem size mb" = "MB on disk";
+"mditem size gb" = "GB on disk";
+"mditem created name" = "Created";
+"mditem modified name" = "Modified";
+"mditem lastopened name" = "Last opened";
