@@ -240,6 +240,8 @@
 		089C1667FE841158C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		32DBCF5E0370ADEE00C91783 /* Sprouted Interface_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Sprouted Interface_Prefix.pch"; sourceTree = "<group>"; };
+		72187817146C538100BE839C /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		72187818146C572100BE839C /* PDButtonNote.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = PDButtonNote.txt; sourceTree = "<group>"; };
 		723F4F100F6F0BA400212DFE /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/SproutedAboutBox.nib; sourceTree = "<group>"; };
 		723F4F130F6F0BB200212DFE /* da */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = da; path = da.lproj/SproutedAboutBox.nib; sourceTree = "<group>"; };
 		723F4F150F6F0BB800212DFE /* de */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = de; path = de.lproj/SproutedAboutBox.nib; sourceTree = "<group>"; };
@@ -311,7 +313,6 @@
 		72A7DE6C0CCD1D9A009ED8AC /* ABBarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ABBarSmall.png; sourceTree = "<group>"; };
 		72A7DE700CCD1DA3009ED8AC /* ComposeMailBarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ComposeMailBarSmall.png; sourceTree = "<group>"; };
 		72A7DE740CCD1DDD009ED8AC /* SafariBarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SafariBarSmall.png; sourceTree = "<group>"; };
-		72A7E08B0CCD5220009ED8AC /* Read Me.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "Read Me.rtf"; sourceTree = "<group>"; };
 		72A7E08C0CCD5220009ED8AC /* Version History.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "Version History.rtf"; sourceTree = "<group>"; };
 		72A7E09D0CCD574C009ED8AC /* PolishedWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PolishedWindow.h; sourceTree = "<group>"; };
 		72A7E09E0CCD574C009ED8AC /* PolishedWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PolishedWindow.m; sourceTree = "<group>"; };
@@ -530,8 +531,8 @@
 		0867D691FE84028FC02AAC07 /* Sprouted Interface */ = {
 			isa = PBXGroup;
 			children = (
-				72A7E08B0CCD5220009ED8AC /* Read Me.rtf */,
 				72A7E08C0CCD5220009ED8AC /* Version History.rtf */,
+				72187817146C538100BE839C /* README.txt */,
 				08FB77AEFE84172EC02AAC07 /* Classes */,
 				32C88DFF0371C24200C91783 /* Other Sources */,
 				089C1665FE841158C02AAC07 /* Resources */,
@@ -761,9 +762,9 @@
 				E337CA870CA1B0CB00797802 /* PDURLTextField.h */,
 				E337CA880CA1B0CB00797802 /* PDURLTextField.m */,
 				E337CA890CA1B0CB00797802 /* PDURLTextFieldCell.h */,
+				E337CA8C0CA1B0CB00797802 /* PDURLTextFieldCell.m */,
 				E337CA8A0CA1B0CB00797802 /* PDPrintTextView.h */,
 				E337CA8B0CA1B0CB00797802 /* PDPrintTextView.m */,
-				E337CA8C0CA1B0CB00797802 /* PDURLTextFieldCell.m */,
 				E337CA8D0CA1B0CB00797802 /* PDBorderedView.h */,
 				E337CA8E0CA1B0CB00797802 /* PDBorderedView.m */,
 				72886B630CC7C7ED00733960 /* JRLRFooter.h */,
@@ -797,6 +798,7 @@
 		E337CABA0CA1B0D500797802 /* PDButton */ = {
 			isa = PBXGroup;
 			children = (
+				72187818146C572100BE839C /* PDButtonNote.txt */,
 				E337CABB0CA1B0DF00797802 /* PDButton.h */,
 				E337CABC0CA1B0DF00797802 /* PDButton.m */,
 				E337CABD0CA1B0DF00797802 /* PDButtonCell.h */,
@@ -1091,6 +1093,7 @@
 			isa = PBXProject;
 			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "Sprouted Interface" */;
 			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
 				English,
